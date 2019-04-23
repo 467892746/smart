@@ -1,4 +1,5 @@
 移动端爱家租房项目
+
 前后端分离!
 
 前端主要使用HTML,CSS,JQuery库,bootstrap框架。极限渲染使用了art-templatew(腾讯开源js前端模板).
